@@ -26,7 +26,7 @@ spring.datasource.password=//your password here.
 In this project we have swagger so  after run the project you test the application 
 using swagger and the swagger URL format should be http://yourIp:yourPort/swagger-ui/index.html
 
-<br/>_Option 2:_
+<br/>_Option 2:_<br/>
 I have written the test case in the application you can also the available api
 using the test code.
 you can find the test code from the test directory.
